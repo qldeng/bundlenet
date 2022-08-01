@@ -6,8 +6,18 @@ __pycache__/
 # C extensions
 *.so
 
-# macOS
+# macOS file
 **/.DS_Store
+
+# PyCharm setting
+.idea/
+
+# VSCode setting
+.vscode
+
+# miscellaneous
+# misc/
+# output/
 
 # Distribution / packaging
 .Python
